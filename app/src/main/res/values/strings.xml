@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Aboute Me</string>
+    <string name="edit_about_me">Edit informations about you</string>
+    <string name="btn_done">Done</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_close_app">Close APP</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_name">Name</string>
+    <string name="btn_birthday">Birthday</string>
+    <string name="btn_about_me">About Me</string>
+</resources>

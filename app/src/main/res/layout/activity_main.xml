@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main_start_form"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.studyjame.aboutmeforstudyjam.abouteme.MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:gravity="center"
+        android:text="Pleas write informations about You"
+        android:textSize="24dp" />
+
+    <Button
+        android:id="@+id/btn_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Name" />
+
+    <Button
+        android:id="@+id/btn_birthday"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="Birthday" />
+
+    <Button
+        android:id="@+id/btn_about_me"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="8dp"
+        android:text="About Me" />
+
+    <Button
+        android:id="@+id/btn_register"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="8dp"
+        android:text="Register" />
+</LinearLayout>
